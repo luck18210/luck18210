@@ -1,8 +1,6 @@
-<h3 align="center">WordPress｜Web design｜Full-Stack｜Blockchain｜Security｜AI｜Mobile App</h3>
+<h3 align="center">お客様ひとりひとりに真心を込めて接し、深い信頼関係を築くことを大切にしております。</h3>
 
-お客様ひとりひとりに真心を込めて接し、深い信頼関係を築くことを大切にしております。
-
-- 💬 Ask me about **Web Design, Landing Page, HomePage, Full-Stack, Blockchain, Network Security, AI**
+- 💬 Ask me about **Web Design, WordPress, LP, HP, Full-Stack, Blockchain, Network Security, AI, Web App Mobile App**
 
 - 📫 How to reach me **wwd.lucky18210@gmail.com**
 
