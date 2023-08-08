@@ -1,7 +1,6 @@
 <h3 align="center">WordPress｜Web design｜Full-Stack｜Blockchain｜Security｜AI｜Mobile App</h3>
-<h6 align="center">WordPress｜Webデザイン｜フルスタック｜ブロックチェーン｜セキュリティ｜AI｜モバイルアプリ</h6>
 
-As a Full-Skilled Software Developer, I have full experiences within from C/C++/Java native programming to BlockChain/Security/AI/Full-Stack/Mobile App Development.
+お客様ひとりひとりに真心を込めて接し、深い信頼関係を築くことを大切にしております。
 
 - 💬 Ask me about **Web Design, Landing Page, HomePage, Full-Stack, Blockchain, Network Security, AI**
 
