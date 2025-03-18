@@ -1,6 +1,6 @@
 <h3 align="center">I treat each and every project with sincerity and value building deep relationships of trust</h3>
 
-- 💬 Ask me about **Web Design, WordPress, LP, HP, Full-Stack, Blockchain, Network Security, AI, Web App Mobile App**
+- 💬 Ask me about **Full-Stack, Blockchain, AI, Data Scrapping, Web App Mobile App**
 
 - 📫 How to reach me **wwd.lucky18210@gmail.com**
 
