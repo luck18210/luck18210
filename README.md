@@ -1,4 +1,4 @@
-<h3 align="center">I treat each and every project with sincerity and value building deep relationships of trust</h3>
+<h3 align="center">お客様ひとりひとりに真心を込めて接し、深い信頼関係を築くことを大切にしております。</h3>
 
 - 💬 Ask me about **Full-Stack, Blockchain, AI, Data Scrapping, Web App Mobile App**
 
